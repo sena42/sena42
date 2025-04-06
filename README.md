@@ -62,7 +62,6 @@
       <li>Canva</li>
       <li>Fotoğrafçılık & Grafik Tasarım</li>
       <li>Kurgu & Montaj</li>
-      <li>Görme ve duyma detaylarına dikkat eden güçlü bir gözlem yetisi</li>
     </ul>
     <p class="mt-4 italic">Fotogül Fotoğrafçılık (1 yıl) | Kısaca Film Atölyesi (Devam ediyor)</p>
   </section>
