@@ -44,10 +44,10 @@
           <a href="https://youtu.be/Xo9kXYRXsVU" class="text-blue-600 underline" target="_blank"> FİREZ (Yönetmen) - HAK-İŞ 13. Uluslararası Kısa Film Yarışması Necati Çelik Özel Ödülü</a></a>
         </li>
         <li>
-          <a href="https://youtu.be/f8xSMtj41ns" class="text-blue-600 underline" target="_blank">Katıldığım Proje 1</a>
+          <a href="https://youtu.be/f8xSMtj41ns" class="text-blue-600 underline" target="_blank"> TUZLU HAYATLAR (EDİTOR)</a>
         </li>
         <li>
-          <a href="https://youtu.be/p_ct36BYrdc" class="text-blue-600 underline" target="_blank">Katıldığım Proje 2</a>
+          <a href="https://youtu.be/p_ct36BYrdc" class="text-blue-600 underline" target="_blank"> SABIR (EDİTOR)</a>
         </li>
       </ul>
     </div>
