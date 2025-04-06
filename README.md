@@ -38,10 +38,10 @@
       <h2 class="text-xl font-semibold mb-6">Projelerim</h2>
       <ul class="space-y-4">
         <li>
-          <a href="https://youtu.be/Xa9P-3CMN-k" class="text-blue-600 underline" target="_blank">Firez (Yönetmen) - HAK-İŞ 13. Uluslararası Kısa Film Yarışması Necati Çelik Özel Ödülü</a>
+          <a href="https://youtu.be/Xa9P-3CMN-k" class="text-blue-600 underline" target="_blank"> UKDE (Yönetmen)
         </li>
         <li>
-          <a href="https://youtu.be/Xo9kXYRXsVU" class="text-blue-600 underline" target="_blank">İkinci Film (Yönetmen)</a>
+          <a href="https://youtu.be/Xo9kXYRXsVU" class="text-blue-600 underline" target="_blank"> FİREZ (Yönetmen) - HAK-İŞ 13. Uluslararası Kısa Film Yarışması Necati Çelik Özel Ödülü</a></a>
         </li>
         <li>
           <a href="https://youtu.be/f8xSMtj41ns" class="text-blue-600 underline" target="_blank">Katıldığım Proje 1</a>
